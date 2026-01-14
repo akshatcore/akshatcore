@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=AKSHAT+//+aka+SLUGGER;CYBERSECURITY+%7C+ANDROID+DEV;TRYHACKME+%7C+LINUX+%7C+SECURITY" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=AKSHAT+//+aka+SluGGer;CYBERSECURITY+%7C+ANDROID+DEV;TRYHACKME+%7C+LINUX+%7C+SECURITY" />
 </p>
 
 
