@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Akshat — aka **SluGGer**
-
-> People in the cybersecurity community know me as **SluGGer**
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=AKSHAT+//+aka+SLUGGER;CYBERSECURITY+%7C+ANDROID+DEV;TRYHACKME+%7C+LINUX+%7C+SECURITY" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on Android applications and cybersecurity micro-projects<br><br>
