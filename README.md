@@ -42,7 +42,8 @@
 
 ## 🏴‍☠️ TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/SluGGer.png" alt="TryHackMe Badge - SluGGer" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/SluGGer.png" alt="Your Image Badge" />
+
 
 ---
 
