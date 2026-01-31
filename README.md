@@ -42,7 +42,8 @@
 
 ## 🏴‍☠️ TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3239450" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SluGGer.png" alt="Your Image Badge" />
+
 
 
 
