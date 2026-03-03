@@ -52,8 +52,6 @@
 ## 📊 GitHub Stats:
 ---
 
-## 🛡️ Cyber Dashboard
-
 <p align="center">
   <img src="https://akshat-github-card.vercel.app/api/card?username=akshatcore&theme=neon" />
 </p>
