@@ -50,12 +50,19 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshatcore&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshatcore&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatcore&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
+## 🛡️ Cyber Dashboard
+
+<p align="center">
+  <img src="https://akshat-github-card.vercel.app/api/card?username=akshatcore&theme=neon" />
+</p>
+
+<p align="center">
+  <sub>⚡ Custom built GitHub analytics engine powered by my own serverless API</sub>
+</p>
+
+---
 [![](https://visitcount.itsvg.in/api?id=akshatcore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
